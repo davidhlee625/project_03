@@ -10,8 +10,7 @@ This file takes in a search term and (optionally) number of pages and scrapes eb
 
 **How to run the `ebay-dl.py` file :** 
 
-Firstly, enter in the item and the number of pages you wish to see from ebay after the ebay-dl.py. 
-
+In order to run this file, type in an item that you would like to see from ebay. This initial command with no page number specification will return 10 pages.
 
 <pre><code>scrapingebay/ebay-dl.py" 'item query here'
 </code></pre>
