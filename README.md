@@ -16,8 +16,6 @@ Firstly, enter in the item and the number of pages you wish to see from ebay aft
 <pre><code>scrapingebay/ebay-dl.py" 'item query here'
 </code></pre>
 
-<br />
-
 In this case, I've entered panini press for the item query and the number of pages as 10. If you want less than 10 pages, specify as necessary! This will return the `panini press.json` file that you can see linked in this repo. This file will have 10 pages worth of content regarding panini presses from ebay.
 
 
