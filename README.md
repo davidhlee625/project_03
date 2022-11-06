@@ -10,11 +10,11 @@ This file takes in a search term and (optionally) number of pages and scrapes eb
 **How to run the `ebay-dl.py` file :** 
 Firstly, enter in the item and the number of pages you wish to see from ebay after the ebay-dl.py. 
 
-<pre><code>`davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project03 scrapingebay/ebay-dl.py" 'item query here'`
+<pre><code>`scrapingebay/ebay-dl.py" 'item query here'`
 </code></pre>
 
 
 In this case, I've entered adidas for the item and the number of pages as 10. If you want less than 10 pages, specify as necessary!
 
-<pre><code>`davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project03 scrapingebay/ebay-dl.py" 'adidas' --num_pages=10`
+<pre><code>`scrapingebay/ebay-dl.py" 'adidas' --num_pages=10`
 </code></pre>
